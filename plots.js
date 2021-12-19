@@ -1,5 +1,6 @@
 console.log("This is plots.js")
 
+// DrawBarchart, optionChanged, and InitDashboard functions are from the Instructor's example done in office hours. 
 
 
 
